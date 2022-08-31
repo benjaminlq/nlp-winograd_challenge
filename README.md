@@ -1,6 +1,14 @@
 # <center> NLP Winograd Challenge <center/>
 ### <center> Winograd Challenge using pretrained Roberta transformer-based model.
-<br><br>
+<br>
+
+## Table Of Content
+  - [Background/Problem Description](#backgroundproblem-description)
+  - [Dataset](#dataset)
+  - [Methodology](#methodology)
+  - [Model Selection - RoBERTa](#model-selection---roberta)
+  - [Results & Conclusion](#results--conclusion)
+  - [References](#references)
 
 ## Background/Problem Description
 The Winograd Schema Challenge was introduced for testing AI agents level of understanding for commonsense knowledge proposed by Hector Levesque, designed to be an alternative to Turing Test.
