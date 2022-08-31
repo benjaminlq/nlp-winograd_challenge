@@ -56,6 +56,8 @@ where [CLS] is start token, [SEP] is end token and [SEP][SEP] is the tokens betw
 
 ## Results & Conclusion
 The RobertaForSequenceClassification fine-tuned model achieve accuracy of 70.5% on test set. 
+![image](https://user-images.githubusercontent.com/99384454/187623313-f3896bfc-5bd3-4bad-a6b6-e910d204a8e6.png)
+
 Some degree of overfitting observed between training and testing dataset, as cross-validation accuracy is ~78%.
 
 ## References
