@@ -1,7 +1,7 @@
 # <center> NLP Winograd Challenge <center/>
 ### <center> Winograd Challenge using pretrained Roberta transformer-based model.
 
-![domain](https://img.shields.io/badge/Domain-NLP-green)
+![domain](https://img.shields.io/badge/Package-Natural%20Language%20Processing-green)
 ![language](https://img.shields.io/badge/Language-Python-blue)
 ![license](https://img.shields.io/badge/License-MIT-purple)
 ![tool1](https://img.shields.io/badge/Tool-Pytorch-orange)
